@@ -4,6 +4,9 @@
 # REST
 - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) by Jeff Schnitzer
 
+# git
+- [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/) by Julia Evans
+
 # System Design
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) by ByteByteGoHq
   
