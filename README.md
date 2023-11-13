@@ -1,3 +1,6 @@
+# Working as a Software Engineer
+- [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) by Mensur Duraković
+
 # Solopreneur/SaaS
 - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) by Tony Dinh
 
