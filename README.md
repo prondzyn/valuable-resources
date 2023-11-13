@@ -1,4 +1,4 @@
-# Working as a Software Engineer
+# Software Engineering
 - [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) by Mensur Duraković
 
 # Solopreneur/SaaS
