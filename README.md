@@ -1,6 +1,9 @@
 # Software Engineering
 - [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) by Mensur Duraković
 
+## IDEs
+- [Monaspace - an innovative superfamily of fonts for code](https://monaspace.githubnext.com/) by GitHub Next
+
 # Solopreneur/SaaS
 - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) by Tony Dinh
 
