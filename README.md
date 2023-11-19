@@ -22,6 +22,9 @@
 
 # System Design
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) by ByteByteGoHq
-  
+
+# Automation
+- [Automa - automate your browser by connecting blocks](https://www.automa.site)
+
 # Google Photos
 - [Google Photos Delete All Tool](https://github.com/mrishab/google-photos-delete-tool) by Rishab Manocha
