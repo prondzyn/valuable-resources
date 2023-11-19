@@ -1,13 +1,13 @@
-# Software Engineering
-- [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) by Mensur Duraković
+# Around code
 
-## Around code
-
-### AI tools
+## AI tools
 - [The Engineering Lead’s Best AI Tools for 2024](https://alex-omeyer.medium.com/the-engineering-leads-best-ai-tools-for-2024-fdcceec51f6f) by Alex Omeyer
 
-### fonts
+## fonts
 - [Monaspace - an innovative superfamily of fonts for code](https://monaspace.githubnext.com/) by GitHub Next
+
+# Software Engineering
+- [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) by Mensur Duraković
 
 # Solopreneur/SaaS
 - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) by Tony Dinh
