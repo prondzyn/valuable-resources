@@ -1,7 +1,7 @@
 # Around code
 
 ## AI tools
-- [The Engineering Lead’s Best AI Tools for 2024](https://alex-omeyer.medium.com/the-engineering-leads-best-ai-tools-for-2024-fdcceec51f6f) by Alex Omeyer
+- [The Engineering Lead's 12 Best AI Tools for 2024](https://stepsize.com/blog/the-engineering-leads-best-ai-tools) by Stepsize
 
 ## fonts
 - [Monaspace - an innovative superfamily of fonts for code](https://monaspace.githubnext.com/) by GitHub Next
