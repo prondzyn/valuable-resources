@@ -32,3 +32,6 @@
 
 # Google Photos
 - [Google Photos Delete All Tool](https://github.com/mrishab/google-photos-delete-tool) by Rishab Manocha
+
+# Proxmox
+- [Set up alerts in Proxmox before it's too late!](https://technotim.live/posts/proxmox-alerts/) by Techno Tim
