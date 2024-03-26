@@ -15,6 +15,9 @@
 # REST
 - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) by Jeff Schnitzer
 
+# JSON
+- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/) by Paul Gross
+
 # git
 
 ## rebase
