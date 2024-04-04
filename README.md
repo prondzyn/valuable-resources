@@ -38,3 +38,8 @@
 
 # Proxmox
 - [Set up alerts in Proxmox before it's too late!](https://technotim.live/posts/proxmox-alerts/) by Techno Tim
+
+# LLM
+
+## prompt engineering
+- [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) by OpenAI
