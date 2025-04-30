@@ -43,3 +43,6 @@
 
 ## prompt engineering
 - [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) by OpenAI
+
+## MCP
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) by Frank Fiegel
