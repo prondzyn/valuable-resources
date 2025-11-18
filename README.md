@@ -43,6 +43,7 @@
 
 ## prompt engineering
 - [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) by OpenAI
+- [Every Way To Get Structured Output From LLMs](https://boundaryml.com/blog/structured-output-from-llms) by Sam Lijin
 
 ## MCP
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) by Frank Fiegel
