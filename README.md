@@ -47,3 +47,7 @@
 
 ## MCP
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) by Frank Fiegel
+
+# Claude Code
+
+- [Claude Code Slash Commands Guide](https://aifordevelopers.substack.com/p/claude-code-slash-commands-guide)
